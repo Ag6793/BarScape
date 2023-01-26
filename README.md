@@ -52,6 +52,8 @@ For running the server file on you can use this command.
 
 ## Future Development
 * Implement A google maps api for people to pin a bar location
+* Have the application accept user data to create a post and a user
+* Allow uses to join a group 
 
 
 
